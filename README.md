@@ -269,7 +269,7 @@ sure it works the way you expect in the browser. In professional applications,
 tests can't cover 100% of the use of the application. It's important to
 realize that "passing all the tests" _is not the same_ as "building a working
 application."
-
+ 
 Be sure to do a human-level manual "play through" with your dodger to make sure
 your working code _really works_!
 
